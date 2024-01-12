@@ -1,6 +1,6 @@
-# <b>E-Commerce Android App</b>
+# This project is tested with Browserstack.
 
-<h3><b>This project is tested with BrowserStack.</b></h3>
+# <b>E-Commerce Android App</b>
 
 This is an Open Sourced full stack E-Commerce Android App. I started this Project absoulutely no vision but now it have evolve to customized online Shopping App.
 This repository holds basic E-commerce App POC which I had created 6 months back. You can download Demo App to see what it looks like now. I have also design Admin Panel (web App)
