@@ -6,12 +6,6 @@ This is an Open Sourced full stack E-Commerce Android App. I started this Projec
 This repository holds basic E-commerce App POC which I had created 6 months back. You can download Demo App to see what it looks like now. I have also design Admin Panel (web App)
 for the this project. If you are interested feel free to Ping me.
 
-<hr>
-I would gladly accept pointers from others to improve, simplify, or make the code more efficient. If you would like to make any comments then please feel free to email me:
-
-<h3><b>AchrafATT</b></h3>
-:email: attouaki.officiel@gmail.com
-<hr>
 
 # Some results
 
